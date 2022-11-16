@@ -8,7 +8,7 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@crearis/base": "^0.0.3",    
+    "@crearis/base": "^0.0.3",
     "nuxt": "3.0.0-rc.11"
   }
 }
